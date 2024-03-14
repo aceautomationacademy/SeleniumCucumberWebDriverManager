@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","LoggedIn User View","Validate user is able to view after Login","0","0","1","0","0"
+"","Given","Validate user is able to view after Login","0","0","1","0","0"
+"Web","General View","Validate general user is able to view products wihtout logging in","0","0","1","0","0"
+"","New User Registration View","Validate new user is able to view after clicking on new Registration","0","0","1","0","0"
+"","Given","Validate new user is able to view after clicking on new Registration","0","0","1","0","0"

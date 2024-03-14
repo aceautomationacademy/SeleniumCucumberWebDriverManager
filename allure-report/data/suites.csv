@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 13 22:39:00 AEDT 2024","Wed Mar 13 22:39:06 AEDT 2024","6464","","LoggedIn User View","","Validate user is able to view after Login","","Validate user is able to view after Login",""
+"passed","Wed Mar 13 22:38:51 AEDT 2024","Wed Mar 13 22:39:00 AEDT 2024","8430","","General View","","Validate general user is able to view products wihtout logging in","","Validate general user is able to view products wihtout logging in",""
+"passed","Wed Mar 13 22:39:06 AEDT 2024","Wed Mar 13 22:39:12 AEDT 2024","5715","","New User Registration View","","Validate new user is able to view after clicking on new Registration","","Validate new user is able to view after clicking on new Registration",""
